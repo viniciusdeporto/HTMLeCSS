@@ -1,3 +1,18 @@
 body{
     font-family: "Roboto", sans-serif;
+    font-size: small;
+}
+
+h1{
+    font-size: 220%;
+    font-family: "Emblema One", system-ui;
+}
+
+h2{
+    font-size: 130%;
+    font-weight: normal;
+}
+
+p{
+    font-size: 110%;
 }
