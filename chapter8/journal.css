@@ -1,18 +1,28 @@
 body{
     font-family: "Roboto", sans-serif;
     font-size: small;
+    background-color: rgb();
 }
 
 h1{
     font-size: 220%;
     font-family: "Emblema One", system-ui;
+    /* text-decoration: underline; */
+    color: #cc6600;
 }
 
 h2{
     font-size: 130%;
+    color: #cc6600;
     font-weight: normal;
+    /* text-decoration: underline; */
+    border-bottom: thin dotted #888888;
 }
 
 p{
     font-size: 110%;
+}
+
+blockquote{
+    font-style: italic;
 }
