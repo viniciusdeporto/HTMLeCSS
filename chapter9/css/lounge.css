@@ -43,15 +43,8 @@ p#footer{
 }
 
 
-@media screen and (max-device-width: 480px){
-    #guarantee{
-        margin-left: 250px;
-        background-color: red;
-    }
-}
 
-@media screen and (max-device-width: 480px){
-    #guarantee{
-        margin-left: 250px;
-    }
+
+p.specials {
+    color: red;
 }

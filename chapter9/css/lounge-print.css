@@ -1,0 +1,18 @@
+/* @media screen and (max-device-width: 481px){
+    #guarantee{
+        margin-right: 250px;
+        background-color: rgb(187, 255, 0);
+    }
+} */
+
+@media screen and (max-device-width: 480px){
+    #guarantee{
+        margin-right: 30px;
+    }
+}
+
+@media print{
+    body{
+        font-family: 'Times New Roman', Times, serif;
+    }
+}
